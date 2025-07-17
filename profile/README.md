@@ -1,4 +1,4 @@
-The POCO F4/Redmi K40S (codenamed "munch") is a flagship smartphone from Xiaomi released in June 2022.
+## The POCO F4/Redmi K40S (codenamed "munch") is a flagship smartphone from Xiaomi released in June 2022.
 
 It is also known as POCO F4 (globally) and Redmi K40S (China).
 
